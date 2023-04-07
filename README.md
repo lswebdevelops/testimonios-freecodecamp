@@ -1,6 +1,6 @@
 https://lswebdevelops.github.io/testimonios-freecodecamp/
 
-![Website:](https://.src/imagenes/freecodecamp.png)
+![Website:](https://src/imagenes/freecodecamp.png)
 
 # Getting Started with Create React App
 
