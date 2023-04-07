@@ -6,7 +6,7 @@ function Testimonio(props) {
     <div className="contenedor-testimonio">
       <img className='imagen-testimonio'
       src={require(`../imagenes/testimonio-${props.imagen}.png`)}
-      alt='foto de Emma'/>
+      alt={`foto de ${props.firstName}`}/>
  
       <div className="contenedor-text-testimonio">
         <p className='nombre-testimonio'><strong>{props.nombre} </strong>en {props.pais}</p>
